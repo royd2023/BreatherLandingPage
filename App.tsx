@@ -30,7 +30,7 @@ const App: React.FC = () => {
             <h1 className="text-6xl sm:text-7xl lg:text-8xl font-bold text-black leading-[0.95] tracking-tighter mb-10">
               Work gigs.<br />
               <span className="text-gray-400">Track cash.</span><br />
-              Take time.
+              Breathe.
             </h1>
             
             <p className="text-xl text-gray-600 mb-12 leading-normal max-w-md font-light">
@@ -55,7 +55,7 @@ const App: React.FC = () => {
 
           {/* Right Column: Phone Demo */}
           <div className="flex-1 w-full flex justify-center lg:justify-end">
-            <PhoneDemo videoSrc="/video-name" />
+            <PhoneDemo videoSrc="/RecordIt-1763934134001.mp4" />
           </div>
         </div>
       </section>
