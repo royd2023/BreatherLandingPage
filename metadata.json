@@ -1,0 +1,5 @@
+{
+  "name": "Breather",
+  "description": "A financial tracking app for gig workers to manage income, expenses, and calculate time off.",
+  "requestFramePermissions": []
+}
