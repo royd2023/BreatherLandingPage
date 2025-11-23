@@ -55,7 +55,7 @@ const App: React.FC = () => {
 
           {/* Right Column: Phone Demo */}
           <div className="flex-1 w-full flex justify-center lg:justify-end">
-            <PhoneDemo />
+            <PhoneDemo videoSrc="/video-name" />
           </div>
         </div>
       </section>
